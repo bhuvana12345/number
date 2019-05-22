@@ -2,17 +2,20 @@
 void main()
 {
 int a;
+printf("enter a value");
 if (a>0)
+{ 
   {
      printf("positive");
   }  
-    if(a<0)
+  else if(a<0)
    {
       printf("negative");
     }
       else 
-   {
-      Print("zero")
-   }
+        {
+            Print("zero")
+        }
+} 
 getch();
 }
