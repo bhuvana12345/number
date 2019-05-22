@@ -14,7 +14,7 @@ if (a>0)
     }
       else 
         {
-            Print("Zero")
+            Print("Zero");
         }
 } 
 getch();
