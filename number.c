@@ -14,8 +14,8 @@ if (a>0)
     }
       else 
         {
-            Print("Zero");
+            Printf("Zero");
         }
 } 
-return();
+return(0);
 }
