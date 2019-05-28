@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
 int a;
 printf("enter a value");
@@ -15,7 +15,5 @@ if (a>0)
       else 
         {
             Printf("Zero");
-        }
-} 
-return(0);
+    
 }
